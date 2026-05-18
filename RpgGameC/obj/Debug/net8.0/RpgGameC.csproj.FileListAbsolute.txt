@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\RpgGameC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\RpgGameC.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\RpgGameC.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\RpgGameC.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\bin\Debug\net8.0\RpgGameC.exe
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\bin\Debug\net8.0\RpgGameC.deps.json
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\bin\Debug\net8.0\RpgGameC.runtimeconfig.json
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\bin\Debug\net8.0\RpgGameC.dll
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\bin\Debug\net8.0\RpgGameC.pdb
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\RpgGameC.dll
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\refint\RpgGameC.dll
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\RpgGameC.pdb
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\RpgGameC.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#\RpgGameC\RpgGameC\obj\Debug\net8.0\ref\RpgGameC.dll

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|c:\\users\\admin\\source\\repos\\c#\\rpggamec\\rpggamec\\itemsystem\\mysteryelixir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|solutionrelative:rpggamec\\itemsystem\\mysteryelixir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|c:\\users\\admin\\source\\repos\\c#\\rpggamec\\rpggamec\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|solutionrelative:rpggamec\\runstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|c:\\users\\admin\\source\\repos\\c#\\rpggamec\\rpggamec\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|solutionrelative:rpggamec\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|c:\\users\\admin\\source\\repos\\c#\\rpggamec\\rpggamec\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|solutionrelative:rpggamec\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|c:\\users\\admin\\source\\repos\\c#\\rpggamec\\rpggamec\\battleres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|solutionrelative:rpggamec\\battleres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|c:\\users\\admin\\source\\repos\\c#\\rpggamec\\rpggamec\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F519BB74-1681-4909-8CBF-5BE4312976F0}|RpgGameC\\RpgGameC.csproj|solutionrelative:rpggamec\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\Battle.cs",
+              "RelativeDocumentMoniker": "RpgGameC\\Battle.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\Battle.cs",
+              "RelativeToolTip": "RpgGameC\\Battle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:06:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\Balance.cs",
+              "RelativeDocumentMoniker": "RpgGameC\\Balance.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\Balance.cs",
+              "RelativeToolTip": "RpgGameC\\Balance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:02:43.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleRes.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\BattleRes.cs",
+              "RelativeDocumentMoniker": "RpgGameC\\BattleRes.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\BattleRes.cs",
+              "RelativeToolTip": "RpgGameC\\BattleRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T05:01:58.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunState.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\RunState.cs",
+              "RelativeDocumentMoniker": "RpgGameC\\RunState.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\RunState.cs",
+              "RelativeToolTip": "RpgGameC\\RunState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:26:51.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MysteryElixir.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\ItemSystem\\MysteryElixir.cs",
+              "RelativeDocumentMoniker": "RpgGameC\\ItemSystem\\MysteryElixir.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\ItemSystem\\MysteryElixir.cs",
+              "RelativeToolTip": "RpgGameC\\ItemSystem\\MysteryElixir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T07:23:39.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\Map.cs",
+              "RelativeDocumentMoniker": "RpgGameC\\Map.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\RpgGameC\\RpgGameC\\Map.cs",
+              "RelativeToolTip": "RpgGameC\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:54:46.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
