@@ -20,16 +20,15 @@
 
 [ 메인화면 → 필드 이동 → 풀숲 전투이벤트 → 상점 아이템 구매/장착 → 정예몬스터 전투 → 2챕터 이동]
 
-
-
+https://youtu.be/jdpQcvK8rXo
 
 [ 2챕터 → 상점 아이템 구매/장착/판매 → 정예몬스터 전투 → 게임클리어 ]
 
-[게임플레이3.mp4](attachment:4a9c759b-c5a2-4002-b798-93f2598d8d22:게임플레이3.mp4)
+https://youtu.be/6gOBVGcrYmA
 
 </aside>
 
 
 ### 프로젝트 파일 업로드
 
-[0517_RpgGame_안건준.zip](attachment:317570ef-c2a2-4838-8c92-b4d9df1964cb:0517_RpgGame_안건준.zip)
+
