@@ -6,11 +6,13 @@
 
 - 필드 맵 , (플레이어 와 몬스터 아트) , 화면UI구성 ⇒ AI작업으로 진행함
 
-![구성도.png](attachment:5182bc69-c875-4611-8e6b-e92e2467d9d9:구성도.png)
+<img width="1024" height="1536" alt="구성도" src="https://github.com/user-attachments/assets/f57dd037-a6ec-4329-830e-c388841bfd8f" />
+
 
 #### ♦️ **클래스 구성도**
 
-![new클래스구성도.png](attachment:e1d08f1e-88ed-413b-b2e7-211f181c2fcd:new클래스구성도.png)
+<img width="1023" height="1537" alt="new클래스구성도" src="https://github.com/user-attachments/assets/bf061db1-5ebb-4a4c-acac-df8c679075fc" />
+
 
 </aside>
 
@@ -18,7 +20,7 @@
 
 [ 메인화면 → 필드 이동 → 풀숲 전투이벤트 → 상점 아이템 구매/장착 → 정예몬스터 전투 → 2챕터 이동]
 
-[게임플레이1.mp4](attachment:7efdb7c7-c251-46e4-988b-c2eedcb4553d:게임플레이1.mp4)
+
 
 [ 2챕터 → 상점 아이템 구매/장착/판매 → 정예몬스터 전투 → 게임클리어 ]
 
