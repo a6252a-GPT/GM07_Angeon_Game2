@@ -5,6 +5,7 @@ namespace RpgGameC
     internal static class Balance
 
     {
+        //sdasdasdas
 
         public const int StartingGold = 100;
         public const int PlayerInitialHp = 100;
