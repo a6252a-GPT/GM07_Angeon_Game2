@@ -1,3 +1,6 @@
+<details>
+<summary>C#콘솔 게임 제작</summary>
+
 [ 2026 ] C# 콘솔 게임 제작
 
 <aside>
@@ -32,4 +35,8 @@ https://youtu.be/6gOBVGcrYmA
 ### 프로젝트 파일 업로드
 
 [0517_RpgGame_안건준.zip](https://github.com/user-attachments/files/27950120/0517_RpgGame_.zip)
+
+
+</details>
+
 
